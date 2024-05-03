@@ -122,17 +122,17 @@ export default function CustomizedAccordions() {
             handle{"    "}
             <a
               className="text-blue-700 text-xl hover:text-skyBlue"
-              href="https://twitter.com/immdipu"
+              href="https://twitter.com/Mussabsaid"
             >
-              @immdipu
+              @Mussab
             </a>
             {"     "}
             or Instagram handle {"     "}
             <a
               className="text-blue-700 text-xl hover:text-skyBlue"
-              href="https://instagram.com/immdipu"
+              href="https://instagram.com/mussabsaid"
             >
-              @immdipu
+              @Mussab
             </a>
           </Typography>
         </AccordionDetails>

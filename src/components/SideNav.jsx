@@ -123,10 +123,10 @@ const SideNav = () => {
         <div className="absolute bottom-0  flex justify-center right-0 left-0">
           <a
             className="text-xs"
-            href="https://twitter.com/immdipu"
+            href="https://twitter.com/Mussabsaid"
             target={"_blank"}
           >
-            Made by <span className="text-neutral-200">Dipu</span>
+            Made by <span className="text-neutral-200">Mussab</span>
           </a>
         </div>
         {!islogged && (
